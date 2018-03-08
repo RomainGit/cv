@@ -1,0 +1,9 @@
+@font-face{
+	font-family: "Martel";
+	src: url("fonts/martel.woff2") format("woff2");
+}
+
+@font-face{
+	font-family: "Nobile";
+	src: url("fonts/nobile.woff2") format("woff2");
+}

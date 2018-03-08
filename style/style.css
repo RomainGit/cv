@@ -127,7 +127,7 @@ textarea::after{content: "test";}
 .liste-competences li{margin-bottom: 6px; padding-bottom: 2px; border-bottom: 1px solid transparent;}
 .liste-competences li:hover{border-bottom: 1px dotted;}
 .note-competence{display: inline-block; float: right;}
-.liste-competences li .competence{max-width: 50%; display: inline-block;}
+.liste-competences li .competence{max-width: 60%; display: inline-block;}
 
 .liste-competences li:hover .note-competence i:nth-child(1){ animation: bounce 0.5s linear 0s alternate infinite; position: relative; bottom: 0px; }
 .liste-competences li:hover .note-competence i:nth-child(2){ animation: bounce 0.5s linear 0.1s alternate infinite; position: relative; bottom: 0px; }
@@ -173,7 +173,7 @@ ul.fadeout li:nth-child(1){
 	h5{font-size: 19px;}
 	h6{font-size: 16px;}
 
-	body{padding-top: 4vh;}
+	body{padding-top: 4vh; padding-bottom: 4vh;}
 
 }
 
